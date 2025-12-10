@@ -71,7 +71,7 @@ Download the full Power BI project:
 ---
 
 ## 🧾 Final Conclusion
-This dashboard provides a clear, structured view of insurance performance — helping identify key customer segments, policy strengths, and claim patterns. It serves as a useful tool for improving decision-making, optimizing policy offerings, and understanding overall business trends.
+This dashboard provides a clear, structured view of insurance performance - helping identify key customer segments, policy strengths, and claim patterns. It serves as a useful tool for improving decision-making, optimizing policy offerings, and understanding overall business trends.
 
 ---
 
