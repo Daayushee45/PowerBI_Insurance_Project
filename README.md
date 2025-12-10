@@ -50,7 +50,6 @@ To analyze insurance policy and claim data using Power BI to uncover trends in p
 Download the full Power BI project:  
 📁 [Insurance_Project.pbix](dashboard/Insurance_Project.pbix)
 
-(Click on the PBIX file in the dashboard folder)
 
 ---
 
