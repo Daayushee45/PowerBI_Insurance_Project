@@ -17,7 +17,7 @@ An interactive Power BI dashboard designed to explore insurance policy performan
 ---
 
 ## 📂 Dataset Used
-🔗 
+🔗 [Insurance Dataset](data/InsuranceData.csv)
 
 ---
 
@@ -43,7 +43,7 @@ An interactive Power BI dashboard designed to explore insurance policy performan
 
 ## 🔗 Dashboard File
 Download the full Power BI project:  
-➡️ `/dashboard/Insurance_Project.pbix`
+📁 [Insurance_Project.pbix](dashboard/Insurance_Project.pbix)
 
 (Click on the PBIX file in the dashboard folder)
 
