@@ -4,6 +4,11 @@ An interactive Power BI dashboard designed to explore insurance policy performan
 
 ---
 
+## 🎯 Project Objective 
+To analyze insurance policy and claim data using Power BI to uncover trends in premiums, coverage, claim status, customer segments, and high-risk groups, enabling better business insights and strategic decision-making.
+
+---
+
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](images/Dashboard_preview.png)
 
